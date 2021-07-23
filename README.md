@@ -1,2 +1,2 @@
-##T his repo is just for self lrarning purpose
+## This repo is just for self lrarning purpose
 
