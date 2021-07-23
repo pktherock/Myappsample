@@ -1,3 +1,2 @@
-This repo is just to lrarning purpose
-MyApp
-This is my App
+This repo is just for self lrarning purpose
+
